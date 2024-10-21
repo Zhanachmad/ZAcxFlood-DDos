@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/system/bin/python
 #Fl00d 2.0 27-06-2017 (1:42)
 #Tool for UDP Flood
