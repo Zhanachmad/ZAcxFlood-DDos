@@ -22,7 +22,7 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 os.system("clear")
-print B+"                              /  | "
+print B+"                               /  | "
 print "                               /   | "
 print "                               |   |         /\ "
 print "            ____               |   |         \/   "
@@ -32,6 +32,9 @@ print "       ______/   /  /\   \_____/   / ______|__|   | "
 print "       \________/   \_\   \_______/\_____________/  "
 print "              ________/   /                        "
 print "              \__________/ "+N
+print " _________________________________________________________
+print " [[  By: ZanAhmad            بريغادي   اتاكير   سنيفير   أليت    ]]
+print " [[______________________________________________________]]
 print "["+B+""+R+"#"+N+"] "+B+""+R+"بريغادي اتڬير سنيفير أليت"+N+"   Fl00d 2.0 - "+B+""+R+"BASE"+N
 print
 print "#T4ke 7hem d0wn vroh - D0n7 g1ve up - Fl00d th3m"
