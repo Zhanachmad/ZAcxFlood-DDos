@@ -12,7 +12,7 @@ if c == "0":
 
 elif c == "1":
     os.system("pkg install python")
-    os.system("pkg install python2"
+    os.system("pkg install python2")
     os.system("pip install requests")
     os.system("pkg install flood")
    
